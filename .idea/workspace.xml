@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="031b749b-7b56-4abe-a81c-53f8c7a7621f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artifact.iml" beforeDir="false" afterPath="$PROJECT_DIR$/List.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/ApproveDataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/ApproveDataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/MainAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/MainAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/MainProjectAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/MainProjectAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/MainProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/MainProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/ProjectViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/ProjectViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/StartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/StartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/TaskViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/TaskViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/ViewProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/ViewProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/ViewProjectAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/ViewProjectAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/ViewProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/ViewProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/ViewTaskAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/ViewTaskAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/ViewTaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/ViewTaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Controller/viewAllTasksController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Controller/viewAllTasksController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/DAOEntities/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/DAOEntities/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/DAOEntities/DoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/DAOEntities/DoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/DAOEntities/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/DAOEntities/ProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/DAOEntities/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/DAOEntities/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/DAOEntities/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/DAOEntities/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/DAOEntities/TeamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/DAOEntities/TeamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/DAOEntities/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/DAOEntities/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Model/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Model/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Model/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Model/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Model/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Model/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Model/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/code/Model/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code/Model/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/analis.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/analis.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/createProject.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/createProject.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/createTask.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/createTask.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/mainAdminWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/mainAdminWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/mainProjectsAdminWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/mainProjectsAdminWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/mainProjectsWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/mainProjectsWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/mainTasksAdminWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/mainTasksAdminWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/mainTasksWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/mainTasksWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/mainWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/mainWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/registrationWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/registrationWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/startWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/startWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/viewAdminProject.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/viewAdminProject.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/viewAdminTask.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/viewAdminTask.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/viewAllTasks.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/viewAllTasks.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/viewProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/viewProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/viewProject.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/viewProject.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/viewTask.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/viewTask.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ToDo$Main.coverage" NAME="Main Coverage Results" MODIFIED="1527499442445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>err</find>
+      <find>Can not set java.math.BigInteger field nai166.gramatik.Model.Team.teamId to java.math.BigInteger</find>
+      <find>try</find>
+      <find>find</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Profile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Team.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/DAOEntities/TeamController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/registrationWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/createProject.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/mainAdminWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/createTask.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ProjectViewController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Done.java" />
+        <option value="[Connection 1]consoles\Connection 1" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/viewProfile.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewProfileController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/DAOEntities/ProfileController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/viewTask.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/viewProject.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/DAOEntities/DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/DAOEntities/ProjectController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/viewAdminProject.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/viewAdminTask.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/DAOEntities/TaskController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewProjectAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ApproveDataController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewProjectController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/DAOEntities/DoneController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/Admin/mainAdminWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/viewAllTasksController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewTaskController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/TaskViewController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewTaskAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/mainWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/mainTasksAdminWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/mainProjectsWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/mainProjectsAdminWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/viewAllTasks.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/style.css" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainProjectAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/RegistrationController.java" />
+        <option value="[Connection]consoles\Connection" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/StartController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/DoneController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/mainTasksWindow.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainProjectController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/analis.fxml" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1685" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="2I0DyvyBgP2nifnSgvibuMeJxaE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gramatik" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gramatik" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gramatik" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Курсовая работа" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Курсовая работа" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Универ\Второй курс\ООП\Курсовая работа\src\main\resources\View" />
+      <recent name="E:\Универ\Второй курс\ООП\Курсовая работа\src\main\resources\View\Admin" />
+      <recent name="E:\Универ\Второй курс\ООП\ToDo\src\main\resources\View" />
+      <recent name="E:\Универ\Второй курс\ООП\ToDo\src\main\resources\META-INF" />
+      <recent name="E:\Универ\Второй курс\ООП\ToDo\src\main\java\nai166\gramatik" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="nai166.gramatik.Main" />
+      <module name="List" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/src/main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="031b749b-7b56-4abe-a81c-53f8c7a7621f" name="Default" comment="" />
+      <created>1525787421222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525787421222</updated>
+      <workItem from="1669309870930" duration="2043000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1669310718003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669310718003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.764232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2953813" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32466063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5251397" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47932962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16487648" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5251397" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/viewProject.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="51" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/viewProfile.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/registrationWindow.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/mainWindow.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="db://[Connection]consoles\Connection" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/mainTasksWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="73" column="18" lean-forward="false" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/viewAllTasks.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/ProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/DoneController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/ProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/TeamController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/TaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/DAOEntities/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Done.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1337">
+          <caret line="99" column="33" lean-forward="false" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="68" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ApproveDataController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainProjectAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewProjectAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewTaskAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="998">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/viewAllTasksController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/RegistrationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ProjectViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/StartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/TaskViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="60" column="9" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/ViewTaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/createTask.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/mainAdminWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="111" column="11" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="111" selection-end-column="11" />
+          <folding>
+            <element signature="e#3152#3844#0" expanded="true" />
+            <element signature="e#3843#3844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nai166/gramatik/Controller/MainProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="e#2799#3494#0" expanded="true" />
+            <element signature="e#3493#3494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/analis.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>artifact</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../class.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
